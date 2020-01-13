@@ -1,0 +1,3 @@
+[submodule "Assets/ExternalLibraries/JJFramework"]
+	path = Assets/ExternalLibraries/JJFramework
+	url = git@github.com:onsemy/JJFramework.git
